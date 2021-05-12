@@ -1,0 +1,9 @@
+./results
+./code.zip
+./.idea
+./dataset/*checkpoints
+./dataset/data_runs
+./utils/__pycache__
+./__pycache__
+./trained/*.zip
+./pmf_rmse_graph.png

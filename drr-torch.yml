@@ -1,0 +1,14 @@
+name: drr-torch
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - torchvision
+  - cudatoolkit
+  - pytorch
+  - matplotlib
+  - gym
+prefix: D:/Documents/University Files/Masters/CSC2547 - Reinf-ML/project/dev/model/env
+
