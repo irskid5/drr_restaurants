@@ -17,7 +17,7 @@ The other Python notebook (train_drr.ipynb) is the main training and testing cod
 
 We already include our pretrained PMF and preprocessed data for easier execution.
 
-## Contributers
+## Contributors
 
 Vele Tosevski
 B.A.Sc., M.A.Sc. candidate (vele.tosevski@mail.utoronto.ca)
