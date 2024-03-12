@@ -19,8 +19,7 @@ We already include our pretrained PMF and preprocessed data for easier execution
 
 ## Contributors
 
-Vele Tosevski
-B.A.Sc., M.A.Sc. candidate (vele.tosevski@mail.utoronto.ca)
+Vele Tosevski, M.A.Sc (vele.tosevski@mail.utoronto.ca)
 Faculty of Applied Science & Engineering, University of Toronto
 
 Keegan Poon (keegan.poon@mail.utoronto.ca)
